@@ -1,0 +1,18 @@
+{
+    "vsphere_server": "192.168.1.60",
+    "vsphere_user": "administrator@vsphere.local",
+    "vsphere_password": "44Westfront!",
+    "vsphere_template_name": "Windows2022-Base",
+    "vsphere_folder": "Templates",
+    "vsphere_dc_name": "ViaAurora",
+    "vsphere_compute_cluster": "ViaAurora",
+    "vsphere_host": "192.168.1.50",
+    "vsphere_portgroup_name": "VM Network",
+    "vsphere_datastore": "datastore2",
+    "winadmin_password": "p@ssw0rd",
+    "cpu_num": "4",
+    "mem_size": "4096",
+    "disk_size": "102400",
+    "os_iso_path": "[datastore1] Windows Server 2022/Windows2022.iso",
+    "vmtools_iso_path":"[datastore1] VMWare Tools/vmware-tools-12.1.5-20735119-x86_64.exe"
+}
